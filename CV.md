@@ -8,29 +8,23 @@
 
 | Type     | Contact                                                                  |
 | -------- | ------------------------------------------------------------------------ |
-| Tel      | +380958868917                                                            |
-| Email    | 3arabotaet@gmail.com                                                     |
-| Skype    | [Skype profile](https://join.skype.com/invite/oegqg0lON77f)              |
-| Telegram | [Telegram profile](https://t.me/zarabotaet)                              |
-| Linkedin | [Linkedin profile](https://www.linkedin.com/in/zarabotaet/)              |
-| GitHub   | [GitHub profile](https://github.com/zarabotaet)                          |
-| FL       | [FL profile](https://www.fl.ru/users/v_e_c_t_o_r/)                       |
-| Upwork   | [Upwork profile](https://www.upwork.com/freelancers/~01cab19e446fc4190f) |
+| Tel      | +380502404551                                                            |
+| Email    | ilyadudiak@gmail.com                                                     |
+| Telegram | [Telegram profile](https://t.me/ilyadudiak)                              |
+| GitHub   | [GitHub profile](https://github.com/ilyadudiak)                          |
+| FlHunt   | [FL profile](https://freelancehunt.com/freelancer/Ilyadudiak.html )      |
 
 ## Foreign Languages
 
 - Russian: Native
 - Ukrainian: Fluent
-- English: Pre-Intermediate
+- English: Intermediate
 
 ## Skills
 
-- Excellent soft skills, vast experience in communication between backend team, design team, business.
-- Experience managing a team of 2-5 people.
-- Teammate training skill (work in htmlacademy).
+- Excellent soft skills.
 - Skill creating a product from scratch and maintain legacy.
-- Develop front-end products all kinds of complexity, making deep research.
-- Designing human-friendly interfaces.
+- Develop front-end products all kinds of complexity.
 
 ## Work Experience
 
