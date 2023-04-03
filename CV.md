@@ -166,7 +166,33 @@
       <td>advanced</td>
       <td>now</td>
     </tr>
-
+<tr>
+      <td colspan="4" align="center"><h3>Design Tools</h3></td>
+    </tr>
+    <tr>
+      <td>Figma</td>
+      <td>3</td>
+      <td>expert</td>
+      <td>now</td>
+    </tr>
+    <tr>
+      <td>AdobeXd</td>
+      <td>0.5</td>
+      <td>novice</td>
+      <td>2018</td>
+    </tr>
+    <tr>
+      <td>Invision</td>
+      <td>0.5</td>
+      <td>novice</td>
+      <td>2020</td>
+    </tr>
+    <tr>
+      <td>Avacode</td>
+      <td>0.5</td>
+      <td>intermediate</td>
+      <td>2018</td>
+    </tr>
   </table>
 
 ## Project experience
