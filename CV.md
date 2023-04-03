@@ -12,7 +12,8 @@
 | Email    | ilyadudiak@gmail.com                                                     |
 | Telegram | [Telegram profile](https://t.me/ilyadudiak)                              |
 | GitHub   | [GitHub profile](https://github.com/ilyadudiak)                          |
-| FlHunt   | [FL profile](https://freelancehunt.com/freelancer/Ilyadudiak.html )      |
+| FlHunt   | [FlHunt profile](https://freelancehunt.com/freelancer/Ilyadudiak.html )  |
+| Weblancer| [Weblancer profile](https://www.weblancer.net/users/Anywhere0/)          |
 
 ## Foreign Languages
 
@@ -51,123 +52,36 @@
     </tr>
     <tr>
       <td>JavaScript</td>
-      <td>4</td>
-      <td>expert</td>
-      <td>now</td>
-    </tr>
-    <tr>
-      <td>TypeScript</td>
-      <td>0.5</td>
+      <td>2</td>
       <td>intermediate</td>
       <td>now</td>
-    </tr>
-    <tr>
-      <td>Shell</td>
-      <td>1</td>
-      <td>novice</td>
-      <td>2019</td>
-    </tr>
-    <tr>
-      <td>Python</td>
-      <td>1</td>
-      <td>novice</td>
-      <td>2019</td>
-    </tr>
-     <tr>
-      <td>LISP</td>
-      <td>0.5</td>
-      <td>novice</td>
-      <td>2020</td>
     </tr>
     <tr>
       <td colspan="4" align="center"><h3>Web technologies</h3></td>
     </tr>
     <tr>
       <td>HTML</td>
-      <td>6</td>
-      <td>expert</td>
-      <td>now</td>
-    </tr>
-    <tr>
-      <td>CSS</td>
-      <td>6</td>
-      <td>expert</td>
-      <td>now</td>
-    </tr>
-    <tr>
-      <td>Web API</td>
       <td>3</td>
       <td>expert</td>
       <td>now</td>
     </tr>
     <tr>
+      <td>CSS</td>
+      <td>3</td>
+      <td>expert</td>
+      <td>now</td>
+    </tr>
+    <tr>
+      <td>Web API</td>
+      <td>2</td>
+      <td>expert</td>
+      <td>now</td>
+    </tr>
+    <tr>
       <td>Dev tools</td>
-      <td>5</td>
+      <td>3</td>
       <td>expert</td>
       <td>now</td>
-    </tr>
-    <tr>
-      <td colspan="4" align="center"><h3>Frameworks and libraries</h3></td>
-    </tr>
-    <tr>
-      <td>React</td>
-      <td>2</td>
-      <td>expert</td>
-      <td>now</td>
-    </tr>
-    <tr>
-      <td>Redux</td>
-      <td>0.5</td>
-      <td>intermediate</td>
-      <td>2018</td>
-    </tr>
-    <tr>
-      <td>Apollo</td>
-      <td>1</td>
-      <td>advanced</td>
-      <td>2019</td>
-    </tr>
-    <tr>
-      <td>Effector</td>
-      <td>1</td>
-      <td>expert</td>
-      <td>now</td>
-    </tr>
-    <tr>
-      <td>Styled components</td>
-      <td>1</td>
-      <td>advanced</td>
-      <td>2019</td>
-    </tr>
-    <tr>
-      <td>React router</td>
-      <td>2</td>
-      <td>expert</td>
-      <td>now</td>
-    </tr>
-    <tr>
-      <td>Vue</td>
-      <td>0.5</td>
-      <td>intermediate</td>
-      <td>2019</td>
-    </tr>
-    <tr>
-      <td>Vuex</td>
-      <td>0.5</td>
-      <td>intermediate</td>
-      <td>2019</td>
-    </tr>
-    <tr>
-      <td>Nuxt</td>
-      <td>0.5</td>
-      <td>intermediate</td>
-      <td>2019</td>
-    </tr>
-    <tr>
-      <td>Svelte</td>
-      <td>1</td>
-      <td>novice</td>
-      <td>2020</td>
     </tr>
     <tr>
       <td colspan="4" align="center"><h3>IDE</h3></td>
@@ -179,36 +93,18 @@
       <td>now</td>
     </tr>
     <tr>
-      <td>Cloud IDE</td>
-      <td>1</td>
-      <td>intermediate</td>
-      <td>now</td>
-    </tr>
-    <tr>
       <td>Sublime Text</td>
       <td>2</td>
       <td>advanced</td>
-      <td>2018</td>
-    </tr>
-    <tr>
-      <td>Brackets</td>
-      <td>4</td>
-      <td>advanced</td>
-      <td>2018</td>
+      <td>2020</td>
     </tr>
     <tr>
       <td colspan="4" align="center"><h3>OS</h3></td>
     </tr>
     <tr>
       <td>Windows</td>
-      <td>20</td>
+      <td>15</td>
       <td>expert</td>
-      <td>now</td>
-    </tr>
-    <tr>
-      <td>WSL</td>
-      <td>2</td>
-      <td>advanced</td>
       <td>now</td>
     </tr>
     <tr>
@@ -222,8 +118,8 @@
     </tr>
     <tr>
       <td>JIRA</td>
-      <td>2</td>
-      <td>advanced</td>
+      <td>0.5</td>
+      <td>intermediate</td>
       <td>now</td>
     </tr>
     <tr>
@@ -236,65 +132,22 @@
       <td>Notion</td>
       <td>1</td>
       <td>intermediate</td>
-      <td>2019</td>
+      <td>now</td>
     </tr>
     <tr>
       <td colspan="4" align="center"><h3>Environment Tools</h3></td>
     </tr>
     <tr>
-      <td>Node</td>
-      <td>3</td>
-      <td>advanced</td>
-      <td>now</td>
-    </tr>
-    <tr>
       <td>npm</td>
       <td>2</td>
-      <td>expert</td>
-      <td>now</td>
-    </tr>
-    <tr>
-      <td>yarn</td>
-      <td>1.5</td>
-      <td>advanced</td>
+      <td>intermediate</td>
       <td>now</td>
     </tr>
     <tr>
       <td>Webpack</td>
       <td>2</td>
-      <td>advanced</td>
+      <td>intermediate</td>
       <td>now</td>
-    </tr>
-    <tr>
-      <td>Babel</td>
-      <td>2</td>
-      <td>advanced</td>
-      <td>now</td>
-    </tr>
-    <tr>
-      <td>Eslint</td>
-      <td>1</td>
-      <td>expert</td>
-      <td>now</td>
-    </tr>
-    <tr>
-      <td>Rollup</td>
-      <td>0.5</td>
-      <td>novice</td>
-      <td>2020</td>
-    </tr>
-    <tr>
-      <td>Parcel</td>
-      <td>1</td>
-      <td>novice</td>
-      <td>2020</td>
-    </tr>
-    <tr>
-      <td>Snowpack</td>
-      <td>0.5</td>
-      <td>novice</td>
-      <td>now</td>
-    </tr>
     <tr>
       <td>Gitlab CI</td>
       <td>1</td>
@@ -303,28 +156,17 @@
     </tr>
     <tr>
       <td>Bitbucket CI</td>
-      <td>1.5</td>
+      <td>1</td>
       <td>intermediate</td>
-      <td>2019</td>
+      <td>2021</td>
     </tr>
     <tr>
       <td>Git</td>
-      <td>2.5</td>
-      <td>expert</td>
-      <td>now</td>
-    </tr>
-    <tr>
-      <td>Bash</td>
-      <td>2</td>
+      <td>1.5</td>
       <td>advanced</td>
       <td>now</td>
     </tr>
-    <tr>
-      <td>Zsh</td>
-      <td>1</td>
-      <td>advanced</td>
-      <td>now</td>
-    </tr>
+
     <tr>
       <td colspan="4" align="center"><h3>Design Tools</h3></td>
     </tr>
@@ -338,74 +180,24 @@
       <td>AdobeXd</td>
       <td>0.5</td>
       <td>novice</td>
-      <td>2018</td>
-    </tr>
-    <tr>
-      <td>Invision</td>
-      <td>0.5</td>
-      <td>novice</td>
       <td>2020</td>
     </tr>
     <tr>
       <td>Avacode</td>
-      <td>0.5</td>
-      <td>intermediate</td>
-      <td>2018</td>
+      <td>2</td>
+      <td>expert</td>
+      <td>2021</td>
     </tr>
   </table>
 
 ## Project experience
 
-### 05.2020 – now
+### 01.2022 – now
 
 |                     |                                                            |
 | ------------------- | ---------------------------------------------------------- |
-| Position            | Senior Front End Developer                                 |
-| Company             | VTB                                                        |
+| Position            | Front End Developer, freelancer                            |
+| Company             | Freelance                                                  |
 | Type of work        | remote                                                     |
-| Project description | enterprise software                                        |
-| Project stack       | React, Effector, React Router, Formik, TypeScript, Webpack |
-
-### 01.2020 – 05.2020
-
-[CTO Reference](https://drive.google.com/file/d/1s8NSBuDTUm4fsUiexCqvQT7MvuWubqZo/view?usp=sharing)
-
-|                     |                                                                            |
-| ------------------- | -------------------------------------------------------------------------- |
-| Position            | Senior Front End Developer, team lead                                      |
-| Company             | easyEventHire                                                              |
-| Type of work        | remote                                                                     |
-| Project description | [service portal, equipment rental in the UK](https://easyeventhireuk.com/) |
-| Project stack       | React, Effector, React Router, HookForm, cypress, Reakit, CRA              |
-
-### 09.2019 – 12.2019
-
-|                     |                                                    |
-| ------------------- | -------------------------------------------------- |
-| Position            | Middle Front End Developer                         |
-| Company             | Stik                                               |
-| Type of work        | remote                                             |
-| Project description | [new generation issue tracker](https://shtab.app/) |
-| Project stack       | Vue, Vuex, Vue Router, Electron                    |
-
-### 06.2018 – 08.2019
-
-|                     |                                                                       |
-| ------------------- | --------------------------------------------------------------------- |
-| Position            | Junior (Middle) Front End Developer                                   |
-| Company             | intelaxy                                                              |
-| Type of work        | remote                                                                |
-| Project description | corporate CRM system, service for car selection, service for bloggers |
-| Project stack       | React, Apollo, React Router, Rff, wss, CRA, jest                      |
-
-### 01.2015 – 06.2018
-
-[Profile link](https://www.fl.ru/users/v_e_c_t_o_r/)
-
-|                     |                                                |
-| ------------------- | ---------------------------------------------- |
-| Position            | Trainee Front End Developer, freelancer        |
-| Company             | FL.ru                                          |
-| Type of work        | remote                                         |
-| Project description | making static layout for web stores and portals |
-| Project stack       | HTML, CSS, gulp, SCSS, js, jquery              |
+| Project description | creating responsive layouts and js programming             |
+| Project stack       | HTML, CSS, GULP, JavaScript, GSAP, Sass, Scss              |
