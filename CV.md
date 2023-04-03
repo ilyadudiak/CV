@@ -167,27 +167,6 @@
       <td>now</td>
     </tr>
 
-    <tr>
-      <td colspan="4" align="center"><h3>Design Tools</h3></td>
-    </tr>
-    <tr>
-      <td>Figma</td>
-      <td>3</td>
-      <td>expert</td>
-      <td>now</td>
-    </tr>
-    <tr>
-      <td>AdobeXd</td>
-      <td>0.5</td>
-      <td>novice</td>
-      <td>2020</td>
-    </tr>
-    <tr>
-      <td>Avacode</td>
-      <td>2</td>
-      <td>expert</td>
-      <td>2021</td>
-    </tr>
   </table>
 
 ## Project experience
