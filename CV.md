@@ -179,19 +179,13 @@
       <td>AdobeXd</td>
       <td>0.5</td>
       <td>novice</td>
-      <td>2018</td>
-    </tr>
-    <tr>
-      <td>Invision</td>
-      <td>0.5</td>
-      <td>novice</td>
       <td>2020</td>
     </tr>
     <tr>
       <td>Avacode</td>
-      <td>0.5</td>
-      <td>intermediate</td>
-      <td>2018</td>
+      <td>2</td>
+      <td>expert</td>
+      <td>2021</td>
     </tr>
   </table>
 
